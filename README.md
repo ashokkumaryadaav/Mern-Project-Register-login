@@ -19,5 +19,4 @@ npm install
 npm start
 
 
-Important = ""After running the frontend, you also need to run the backend. Once both frontend and backend servers are running, you can      
-              proceed to enter your details on the Register page.""
+Important = ""After running the frontend, you also need to run the backend. Once both frontend and backend servers are running, you can proceed to enter your details on the Register page.""
